@@ -13,6 +13,6 @@ This repo was made to save notes and resolution of the problems of the CS50x cou
 Bem-vindo(a) ao meu repo do CS50x!</br>
 Este repo foi feito para guardar notas e as resoluções dos problemas do curso de CS50x. 
 </br>
-- [x] [Week 0](https://github.com/renatangr/cs50x/tree/main/week0)
+- [x] [Week 0](https://github.com/renatangr/cs50x/tree/main/week0#pt-br)
 - [ ] Week 1
 - [ ] Week 2
