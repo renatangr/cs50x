@@ -12,8 +12,6 @@ The point system works like earning 1 dollar for each guess and losing a life (o
 
 All sprites were used from the standard Scratch library, with some manual styling changes for visual improvements.
 
-
-
 ## PT-BR
 A semana zero do curso CS50x fala sobre conceitos introdutórios da computação, de como o computador interpreta informações de todos os tipos.</br>
 
@@ -24,4 +22,4 @@ A ideia conceitual do meu aplicativo foi um jogo de adivinhação no estilo de "
 
 O sistema de pontos funciona como ganhar 1 dólar a cada vez que acerta e perde uma vida (de um total de três) caso erre.</br>
 
-Todas as sprites foram utilizadas da biblioteca padrão do Scratch, com algumas alterações manuais do estilo para melhorias visuais.
+Todas as sprites foram utilizadas da biblioteca padrão do Scratch, com algumas alterações manuais do estilo para melhorias visuais.</br>
