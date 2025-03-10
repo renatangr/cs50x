@@ -10,7 +10,9 @@ The conceptual idea of ​​my app was a guessing game in the style of "Magic C
 
 The point system works like earning 1 dollar for each guess and losing a life (out of a total of three) if you guess wrong.</br>
 
-All sprites were used from the standard Scratch library, with some manual styling changes for visual improvements.
+All sprites were used from the standard Scratch library, with some manual styling changes for visual improvements.</br>
+
+![Octocat pic of me.](/week0/Octocat.png)
 
 ## PT-BR
 A semana zero do curso CS50x fala sobre conceitos introdutórios da computação, de como o computador interpreta informações de todos os tipos.</br>
