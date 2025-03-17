@@ -27,15 +27,15 @@ Altura: 4
 O exercício "Cash" solicita ao usuário um valor em dólares e calcula a quantidade mínima de moedas necessárias para representar esse valor.
 
 ### Funcionamento
-- O usuário insere um valor decimal representando um troco em dólares.
-- O programa converte esse valor para centavos e determina a menor quantidade de moedas (25c, 10c, 5c, 1c) necessárias para compô-lo.
+- O usuário insere um valor inteiro representando um troco em centavos (o valor 100 siginifica 100 centavos, e não 100 dólares).
+- O programa então determina a menor quantidade de moedas (25c, 10c, 5c, 1c) necessárias para compô-lo.
 
 ### Exemplo de Entrada e Saída
 ```
-Troco devido: 0.41
+Troco devido: 41
 4
 ```
-*(O resultado "4" indica que são necessárias 4 moedas para formar $0.41, usando 1 moeda de 25c, 1 de 10c, e 2 de 1c.)*
+*(O resultado "4" indica que são necessárias 4 moedas para formar $0.41, usando 1 moeda de 25c, 1 de 10c, 1 de 5c e 1 de 1c.)*
 
 
 ## Tecnologias Utilizadas
