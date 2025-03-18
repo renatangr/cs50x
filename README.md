@@ -1,4 +1,6 @@
 # CS50x
+[Ir para a versão em português](#PT-BR)
+[Go to the english version](#EN-US)
 
 ## EN-US
 Welcome to my CS50x repo! </br>
