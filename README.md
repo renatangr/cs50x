@@ -1,5 +1,5 @@
 # CS50x
-[Ir para a versão em português](#PT-BR)
+[Ir para a versão em português](#PT-BR) </br>
 [Go to the english version](#EN-US)
 
 ## EN-US
