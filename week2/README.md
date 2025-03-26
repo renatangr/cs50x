@@ -13,3 +13,5 @@ Aqui irei colocar alguns dos assuntos abordados na aula da terceira semana do cu
 5. Argumentos de Linha de Comando
 6. Exit Status Code
 
+## Exercícios propostos
+Três exercícios foram propostos nesta semana: Scrabble (que consiste em somar os pontos das letras de cada palavra e dizer o ganhador entre duas palavras), Readability (que consiste em dizer o grau de legibilidade de um determinado texto) e por fim o Caesar (que consiste em transformar um texto simples usando um algoritmo de criptografia chamado cifra).
